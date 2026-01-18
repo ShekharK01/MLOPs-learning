@@ -1,3 +1,2 @@
-hi shekhar
-
--- how work account is checked and personal account checking.
+1. Create git repo and clone it in local.
+2. Create mycode.py and add code to it. (it will save a csv file to a new "data" folder)
